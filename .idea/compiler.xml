@@ -11,8 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configserver" target="1.5" />
-      <module name="ConfigServer" target="1.5" />
-      <module name="Nim" target="1.5" />
+      <module name="ConfigServer" target="1.8" />
+      <module name="Nim" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
