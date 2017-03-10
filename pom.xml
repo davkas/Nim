@@ -9,7 +9,17 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>configserver</module>
+        <module>Configer</module>
+        <module>Discover</module>
+        <module>WebLink</module>
+        <module>Applink</module>
+        <module>Controller</module>
+        <module>Gateway</module>
+        <module>IdGen</module>
+        <module>Message</module>
+        <module>Notifyer</module>
+        <module>Searcher</module>
+        <module>WebLink</module>
     </modules>
 
     <parent>

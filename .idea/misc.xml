@@ -5,6 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/web-link/pom.xml" />
+        <option value="$PROJECT_DIR$/applink/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Searcher/pom.xml" />
+        <option value="$PROJECT_DIR$/Message/pom.xml" />
+        <option value="$PROJECT_DIR$/Notifyer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

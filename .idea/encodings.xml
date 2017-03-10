@@ -2,7 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ConfigServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Applink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Configer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Discover" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IdGen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Notifyer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Searcher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebLink" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
   </component>
 </project>

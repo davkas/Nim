@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Applink/applink.iml" filepath="$PROJECT_DIR$/Applink/applink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Configer/config-server.iml" filepath="$PROJECT_DIR$/Configer/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discover/Discover.iml" filepath="$PROJECT_DIR$/Discover/Discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/gateway.iml" filepath="$PROJECT_DIR$/Gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdGen/IdGen.iml" filepath="$PROJECT_DIR$/IdGen/IdGen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Message/Message.iml" filepath="$PROJECT_DIR$/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nim.iml" filepath="$PROJECT_DIR$/Nim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notifyer/Notifyer.iml" filepath="$PROJECT_DIR$/Notifyer/Notifyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searcher/Searcher.iml" filepath="$PROJECT_DIR$/Searcher/Searcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebLink/web-link.iml" filepath="$PROJECT_DIR$/WebLink/web-link.iml" />
     </modules>
   </component>
 </project>
